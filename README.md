@@ -61,5 +61,14 @@ Traditional remote-controlled cars rely on the user for navigation and are prone
 
 ---
 
+## 📌 Future Improvements
+
+- **Extended Control Range**: Integrate Wi-Fi for extended control beyond Bluetooth limits.
+- **Advanced Detection**: Use additional sensors for multi-directional detection.
+- **Battery Management**: Implement a stable power system for consistent motor performance.
+
+---
+---
+
 
 
