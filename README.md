@@ -1,11 +1,12 @@
 # Remote-Controlled Obstacle Detection Car 🚗
 
-This project involves building a remote-controlled car that can detect obstacles in its path using an ultrasonic sensor. The car is controlled via Bluetooth using a mobile application and uses an LED to indicate when an object is detected within a certain distance. This project is built using an Arduino microcontroller, making it suitable for beginners interested in IoT and robotics.
+This project involves building a remote-controlled car that can detect obstacles in its path using an ultrasonic sensor. The car is controlled via Bluetooth using a mobile application and uses an LED to indicate when an object is detected within a certain distance. This project uses an Arduino microcontroller.
 
 ---
 
 <p float="left">
    <img src="https://github.com/YajneshKumar2004/IoT-Project/blob/main/image-1.jpg" width="500"/>
+   <be>
    <img src="https://github.com/YajneshKumar2004/IoT-Project/blob/main/image-2.jpg" width="500"/>  
 </p>
 
@@ -35,7 +36,7 @@ Traditional remote-controlled cars rely on the user for navigation and are prone
 
 2. **Code Upload**:
    - Install the [Arduino IDE](https://www.arduino.cc/en/software).
-   - Open the code file `obstacle_detection_car.ino` in the Arduino IDE.
+   - Open the code file `Code.ino` in the Arduino IDE.
    - Connect your Arduino UNO to your computer, select the correct COM port, and upload the code.
 
 3. **Mobile App Control**:
@@ -67,7 +68,6 @@ Traditional remote-controlled cars rely on the user for navigation and are prone
 - **Advanced Detection**: Use additional sensors for multi-directional detection.
 - **Battery Management**: Implement a stable power system for consistent motor performance.
 
----
 ---
 
 
